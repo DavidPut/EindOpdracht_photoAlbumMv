@@ -1,0 +1,11 @@
+Beschrijving
+Als opdracht heb ik een foto galerij/foto album gemaakt. Dit heeft de volgende mogelijkheden:
+
+Met de volgende mogelijkheden:
+
+1) Per scherm bevat het album/galerij 4 foto’s.
+2) Het is mogelijk om naar het volgende scherm te gaan door op de knop “Next”  te drukken.
+3) Het is mogelijk om een scherm terug te gaan door op de knop “Back” te drukken.
+4) Het is mogelijk om het scherm automatisch te laten scrollen met de knop “Start”.
+5) Het is mogelijk om het automatisch scrollen van het scherm stop te zetten met de knop “Pause”.
+6) De opdracht is in custom javascript gemaakt.
